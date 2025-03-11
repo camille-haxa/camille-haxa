@@ -1,5 +1,5 @@
 
-## Hello, I'm Camille Haxa ✨
+## Hello, I'm Camille Haxa 👾
 
   i :purple_heart: open-source (yay linux!), ecology and accessibility - a11y  
   :floppy_disk: trying to contribute to an open, diverse, inclusive and accessible internet  
